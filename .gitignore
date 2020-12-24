@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.dio
+*.drawio
+jupyter-to-medium.ipynb
